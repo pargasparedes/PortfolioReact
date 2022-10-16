@@ -1,0 +1,22 @@
+.portContainer {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.imgContainer {
+    width: 80%;
+    border: solid red;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.img {
+    height: 200px;
+    width: 300px;
+    background-color: darkviolet;
+    border: solid black;
+    margin: 10px;
+}
+

@@ -1,0 +1,24 @@
+.headContainer {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: violet;
+    height: 92vh;
+}
+
+.headerContainer {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-grow: 3;
+    justify-content: space-between;
+    height: 10%;
+    background-color: darkcyan;
+    flex-wrap: wrap;
+}
+
+.pagesContainer {
+    width: 100%;
+    flex-grow: 3;
+    height: 90%;
+    background-color: darkseagreen;
+}
